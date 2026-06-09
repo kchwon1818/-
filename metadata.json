@@ -1,0 +1,6 @@
+{
+  "name": "Self-Introduction Page",
+  "description": "An elegant, interactive, and responsive Korean self-introduction page and portfolio builder featuring smooth motion animations, skill trees, customizable profile data, and contact logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
